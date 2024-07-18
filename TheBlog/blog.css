@@ -1,0 +1,30 @@
+html{
+    font-family: "Bodoni Moda SC";
+    background-color: white;
+}
+h2{
+    font-size: 16px;
+}
+p{
+    font-size: 13px;
+}
+div {
+    height: 800px;
+    width: 100%;
+    padding: 10px;
+}
+.box{
+    display: flex;
+}
+.divis{
+    border: 1px solid;
+    width: 24%;
+    height: 800px;
+}
+img{
+    height: 400px;
+    width: 100%;
+}
+.centrarbot{
+    text-align: center;
+}
